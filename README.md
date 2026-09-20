@@ -10,10 +10,10 @@
 
 ## 🧠 Currently Learning
 
-- 🛡️ SOC Operations & SIEM (Splunk)
-- 🔍 Ethical Hacking & Penetration Testing
-- 🌐 Networking & Security
-- 🐍 Python for Cybersecurity
+- SOC Operations
+- SIEM & Log Analysis
+- Incident Detection & Response
+- Network Security
 
 ---
 
