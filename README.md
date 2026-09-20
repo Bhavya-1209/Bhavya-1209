@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Bhavya Bhaskar Arora 👋
 
-<!--
-**Bhavya-1209/Bhavya-1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+🔐 Cybersecurity Enthusiast | SOC Analyst Aspirant
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE Student at Punjabi University, Patiala
+- 🔐 Interested in Cybersecurity and SOC Operations
+- 🛡️ Learning SIEM, Network Security & Ethical Hacking
+- 💻 Exploring Python for Cybersecurity
+- 🎯 Looking for Cybersecurity Internship Opportunities
+
+## 🛠️ Skills
+
+- Python
+- C / C++
+- Java
+- SQL
+- Networking
+- Linux
+- Splunk
+- Nmap
+- Wireshark
+- Metasploit
+
+## 🚀 Projects
+
+- 🔐 AES Image Steganography
+- 🔍 Network Vulnerability Scanner
+- 🛡️ SOC Home Lab with Splunk
+
+## 📚 Currently Learning
+
+- SOC Operations
+- SIEM & Log Analysis
+- Incident Detection & Response
+- Network Security
+- Penetration Testing
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: YOUR_EMAIL
+
+---
+
+⭐ Thanks for visiting my profile!
