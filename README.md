@@ -1,48 +1,38 @@
-# Hi, I'm Bhavya Bhaskar Arora 👋
+# 👋 Hi there, I'm Bhavya Bhaskar Arora
 
-🎓 Computer Science Engineering Student  
+🎓 B.Tech CSE Student at Punjabi University, Patiala
+
 🔐 Cybersecurity Enthusiast | SOC Analyst Aspirant
 
-## 👨‍💻 About Me
+💻 Interested in Cybersecurity, Ethical Hacking & Python
 
-- 🎓 B.Tech CSE Student at Punjabi University, Patiala
-- 🔐 Interested in Cybersecurity and SOC Operations
-- 🛡️ Learning SIEM, Network Security & Ethical Hacking
-- 💻 Exploring Python for Cybersecurity
-- 🎯 Looking for Cybersecurity Internship Opportunities
+---
 
-## 🛠️ Skills
+## 🧠 Currently Learning
 
-- Python
-- C / C++
-- Java
-- SQL
-- Networking
-- Linux
-- Splunk
-- Nmap
-- Wireshark
-- Metasploit
+- 🛡️ SOC Operations & SIEM (Splunk)
+- 🔍 Ethical Hacking & Penetration Testing
+- 🌐 Networking & Security
+- 🐍 Python for Cybersecurity
 
-## 🚀 Projects
+---
 
-- 🔐 AES Image Steganography
-- 🔍 Network Vulnerability Scanner
-- 🛡️ SOC Home Lab with Splunk
+## 🌐 Socials
 
-## 📚 Currently Learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bhavya-bhaskar-arora1209/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arorabhavya647@gmail.com)
 
-- SOC Operations
-- SIEM & Log Analysis
-- Incident Detection & Response
-- Network Security
-- Penetration Testing
+---
 
-## 📫 Connect With Me
+## 💻 Tech Stack
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 ---
 
